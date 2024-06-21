@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .custom-shadow {
+    /* box-shadow: 15px 14px 0px #9dd1f1; */
+    /* box-shadow: 15px 14px 0px #f5d6ba; */
+    /* box-shadow: 15px 14px 0px #f8c630; */
+    /* box-shadow: 15px 14px 0px #c6d8ff */
+    /* box-shadow: 15px 14px 0px #dce0d9 */
+    box-shadow: 15px 14px 0px #d4c5e2;
+  }
+}
